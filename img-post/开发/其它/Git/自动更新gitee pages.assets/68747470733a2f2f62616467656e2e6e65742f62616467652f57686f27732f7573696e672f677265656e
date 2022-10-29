@@ -1,0 +1,20 @@
+<svg width="83" height="20" viewBox="0 0 830 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Who&apos;s: using">
+  <title>Who&apos;s: using</title>
+  <linearGradient id="a" x2="0" y2="100%">
+    <stop offset="0" stop-opacity=".1" stop-color="#EEE"/>
+    <stop offset="1" stop-opacity=".1"/>
+  </linearGradient>
+  <mask id="m"><rect width="830" height="200" rx="30" fill="#FFF"/></mask>
+  <g mask="url(#m)">
+    <rect width="434" height="200" fill="#555"/>
+    <rect width="396" height="200" fill="#3C1" x="434"/>
+    <rect width="830" height="200" fill="url(#a)"/>
+  </g>
+  <g aria-hidden="true" fill="#fff" text-anchor="start" font-family="Verdana,DejaVu Sans,sans-serif" font-size="110">
+    <text x="60" y="148" textLength="334" fill="#000" opacity="0.25">Who&apos;s</text>
+    <text x="50" y="138" textLength="334">Who&apos;s</text>
+    <text x="489" y="148" textLength="296" fill="#000" opacity="0.25">using</text>
+    <text x="479" y="138" textLength="296">using</text>
+  </g>
+  
+</svg>
