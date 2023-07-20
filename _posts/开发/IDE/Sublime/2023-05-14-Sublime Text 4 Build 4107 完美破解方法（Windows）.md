@@ -4,6 +4,10 @@ tags:
     - Sublime
 ---
 
+安装：Sublime Text 4 Build 4107
+
+
+
 hosts文件：
 
 ```
@@ -19,7 +23,7 @@ hosts文件：
 
 
 
-将修改过的sublime_text.exe复制到sublime text 
+将修改过的sublime_text.exe复制到C:\Program Files\Sublime Text
 
 
 
@@ -39,4 +43,15 @@ CB6CCBA5 7DE6177B C02C2826 8C9A21B0
 ------ END LICENSE ------
 ```
 
+第二步：preferences->settings-user
+
+添加 "update_check": false,
+
+第三步：重启Sublime
+
+至此，你的Sublime就不会自动更新啦~~ ︿(￣︶￣)︿
+
+
+
 https://shimo.im/docs/Xvc3vPTtKXhPtdHJ/read
+
