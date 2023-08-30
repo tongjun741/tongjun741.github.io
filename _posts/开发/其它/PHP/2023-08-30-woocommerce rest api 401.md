@@ -21,3 +21,7 @@ function my_woocommerce_rest_check_permissions( $permission, $context, $object_i
 
 
 https://stackoverflow.com/a/66429685
+
+
+
+test111
