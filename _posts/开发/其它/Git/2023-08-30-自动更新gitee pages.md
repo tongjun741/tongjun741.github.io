@@ -14,10 +14,7 @@ v1.2.8Latest version
 
 Use latest version
 
-[![img](/img-post/开发/其它/Git/自动更新gitee pages.assets/logo.png)](https://github.com/yanglbme/gitee-pages-action)
 
-[![lint status](/img-post/开发/其它/Git/自动更新gitee pages.assets/badge.svg)](https://github.com/yanglbme/gitee-pages-action/actions) [![Mirror status](自动更新gitee pages.assets/badge-20210318162506926.svg)](https://github.com/yanglbme/gitee-pages-action/actions) [![PRs Welcome](自动更新gitee pages.assets/68747470733a2f2f62616467656e2e6e65742f62616467652f5052732f77656c636f6d652f677265656e)](https://github.com/yanglbme/gitee-pages-action/pulls) [![users](自动更新gitee pages.assets/68747470733a2f2f62616467656e2e6e65742f62616467652f57686f27732f7573696e672f677265656e)](https://github.com/marketplace/actions/gitee-pages-action#谁在使用) [![FOSSA Status](自动更新gitee pages.assets/68747470733a2f2f6170702e666f7373612e636f6d2f6170692f70726f6a656374732f6769742532426769746875622e636f6d25324679616e676c626d6525324667697465652d70616765732d616374696f6e2e7376673f747970653d736869656c64)](https://app.fossa.com/projects/git%2Bgithub.com%2Fyanglbme%2Fgitee-pages-action?ref=badge_shield)
-[![release](/img-post/开发/其它/Git/自动更新gitee pages.assets/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f762f72656c656173652f79616e676c626d652f67697465652d70616765732d616374696f6e2e737667)](https://github.com/yanglbme/gitee-pages-action/releases) [![github](自动更新gitee pages.assets/68747470733a2f2f62616467656e2e6e65742f62616467652f2545322541442539302f4769744875622f626c7565)](https://github.com/yanglbme/gitee-pages-action) [![gitee](自动更新gitee pages.assets/68747470733a2f2f62616467656e2e6e65742f62616467652f2545322541442539302f47697465652f626c7565)](https://gitee.com/yanglbme/gitee-pages-action) [![faq](自动更新gitee pages.assets/68747470733a2f2f62616467656e2e6e65742f62616467652f6661712f686572652f626c7565)](https://github.com/marketplace/actions/gitee-pages-action#错误及解决方案)
 
 # Gitee Pages Action
 
