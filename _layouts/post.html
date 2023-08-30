@@ -67,7 +67,10 @@ layout: default
                     {% assign content1=content1|replace: keyword3, target %}
                 {% endfor %}
 
-                {% raw %}{{ "{{ content1 "  }}}}{% endraw %}
+                
+                {% raw %}
+                {{ content1  }}
+                {% endraw %}
                 <hr style="visibility: hidden;">
                 <ul class="pager">
                     {% if page.previous.url %}
