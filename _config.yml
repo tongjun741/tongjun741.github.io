@@ -119,12 +119,12 @@ service-worker: true
 friends: [
   {
     title: "Yuexuan",
-    href: "http://www.yuexuan.org/"
+    href: "http://www.0728123.xyz/"
   },
 
   {
     title: "软件下载",
-    href: "https://ds.yuexuan.org:5001/sharing/6Hy08P0U9"
+    href: "https://ds.0728123.xyz:5001/sharing/6Hy08P0U9"
   },
 
   {
@@ -134,7 +134,7 @@ friends: [
 
   {
     title: "大型软件",
-    href: "https://ds.yuexuan.org:5001/sharing/wbbZ8APrh"
+    href: "https://ds.0728123.xyz:5001/sharing/wbbZ8APrh"
   },
 
   {
@@ -144,6 +144,6 @@ friends: [
 
   {
     title: "阿里云盘共享",
-    href: "http://ds.yuexuan.org:5244/Home"
+    href: "http://ds.0728123.xyz:5244/Home"
   }
 ]
