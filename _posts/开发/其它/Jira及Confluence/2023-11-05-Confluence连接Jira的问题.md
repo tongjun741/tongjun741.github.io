@@ -27,6 +27,16 @@ com.atlassian.crowd.exception.ApplicationPermissionException: Forbidden (403)
 
 
 
+docker中可以通过以下命令查看IP：
+
+```
+docker inspect app_nginx|grep IPAddress
+```
+
+
+
+
+
 对应的Jira配置页面在：
 
 ![image-20210823105821499](/img-post/开发/其它/Jira及Confluence/Confluence连接Jira的问题.assets/image-20210823105821499.png)
