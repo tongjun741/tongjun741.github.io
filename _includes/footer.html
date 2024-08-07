@@ -291,6 +291,21 @@
             padding: 80
         });
     });
+
 </script>
 {% endif %}
 
+<script src="https://tikapi.io/assets/js/popup.js"></script>
+
+
+<script type="text/javascript">
+    
+    TikAPI.popup({
+        client_id: "c_ECIDZMZZ7U",
+        //scope: ['VIEW_PROFILE', 'USER_MESSAGES'], (optional)
+    });
+
+    TikAPI.onLogin(function(data){
+	console.log(data);
+});
+</script>
