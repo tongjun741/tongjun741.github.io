@@ -2,6 +2,7 @@
 tags:
     - 其它
     - Git
+    - GitHub Actions
 ---
 
 ## 手动触发按钮
@@ -17,7 +18,7 @@ on:
 
 
 
-[![img](/img-post/开发/其它/Git/GitHub Actions 手动触发方式.assets/20200817194613.png)](https://img.p3terx.com/post/20200817194613.png)
+[![img](/img-post/开发/其它/Git/GitHub Actions/GitHub Actions 手动触发方式.assets/20200817194613.png)](https://img.p3terx.com/post/20200817194613.png)
 
 
 
